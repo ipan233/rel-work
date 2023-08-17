@@ -1,4 +1,5 @@
 - MTR图纸的legend：
 - ![image.png](../assets/image_1692173780652_0.png)
 -
--
+- 低压ACB要求外置保护装置：
+- ![image.png](../assets/image_1692237712867_0.png)
