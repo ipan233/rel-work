@@ -1,4 +1,4 @@
-- IEC61439-1允许N排一半，除非业主另有规定
+- IEC61439-1 ED2.0 2011-08 允许N排一半，除非业主另有规定
 	- Unless otherwise agreed between the ASSEMBLY manufacturer and the user, the minimum
 	  cross-sectional area of the neutral within a three phase and neutral circuit shall be:
 	  · For circuits with a phase conductor cross-sectional area up to and including 16 mm2,
