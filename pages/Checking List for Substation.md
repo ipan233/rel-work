@@ -18,3 +18,5 @@
   |      | Whether the foundation of the prefabricated substation has subsided or sunk. | ▢Normal       |                           |
   | 9    | 箱式变电站油温是否正常。                                       | ▢正常         |                           |
   |      | Whether the oil temperature of the prefabricated substation is normal. | ▢Normal       |                           |
+-
+-
